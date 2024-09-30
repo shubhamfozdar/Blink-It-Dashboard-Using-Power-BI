@@ -1,4 +1,4 @@
-<h4>Blinkit Analytics Dashboard using PowerBi</h4>
+<h2>Blinkit Analytics Dashboard using PowerBi</h2>
 
 - This project involves creating interactive dashboards to analyze sales data over a decade. 
 - The dashboard focuses on dairy items, displaying key metrics like total sales, sales trends by year, fat content distribution, and location type. 

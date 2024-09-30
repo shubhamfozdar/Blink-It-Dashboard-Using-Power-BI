@@ -5,3 +5,8 @@
 - It provides a comprehensive overview of all item types, highlighting total sales, sales trends, item ranking by sales, and similar distribution metrics for fat content and location types. 
 - These dashboards facilitate data-driven decision-making by providing clear visual representations of sales performance and item distribution. 
 - The project aims to help stakeholders understand market trends and optimize inventory management.
+
+SNAPSHOTS:- 
+![image](https://github.com/user-attachments/assets/4e745a39-54c9-4104-bcb9-e9805aabe7c7)
+
+

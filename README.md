@@ -6,7 +6,16 @@
 - These dashboards facilitate data-driven decision-making by providing clear visual representations of sales performance and item distribution. 
 - The project aims to help stakeholders understand market trends and optimize inventory management.
 
-SNAPSHOTS:- 
+Snapshots :- 
 ![image](https://github.com/user-attachments/assets/4e745a39-54c9-4104-bcb9-e9805aabe7c7)
+
+![image](https://github.com/user-attachments/assets/e24d324e-0e6e-4e39-bfc1-c6efae56a649)
+
+![image](https://github.com/user-attachments/assets/c52e60bf-b1a9-42e6-a696-e680dc3d8c08)
+
+![image](https://github.com/user-attachments/assets/1665127b-4f03-46e1-9f71-54d4752415db)
+
+
+
 
 
